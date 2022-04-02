@@ -170,7 +170,7 @@ const CONFIG = {
 		},
 		{
 			icon: 'terminal',
-			id: '1',
+			id: '2',
 			links: [
 				{
 					name: 'Asana',
