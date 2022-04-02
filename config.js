@@ -53,39 +53,51 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Crossword',
+			icon: 'edit',
+			link: 'https://www.nytimes.com/crosswords',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Amazon',
+			icon: 'shopping-cart',
+			link: 'https://www.amazon.ca/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'YNAB',
+			icon: 'piggy-bank',
+			link: 'https://app.youneedabudget.com/d224b721-4217-422f-bd4d-009d8bba9b95/budget',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Sportsurge',
+			icon: 'dribbble',
+			link: 'https://v2.sportsurge.net/',
 		},
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'bot',
 			link: 'https://reddit.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/',
+		},
+		{
+			id: '7',
+			name: 'Wordle',
+			icon: 'youtube',
+			link: 'https://www.powerlanguage.co.uk/wordle/',
+		},
+		{
+			id: '8',
+			name: 'Facebook',
+			icon: 'facebook',
+			link: 'https://www.facebook.com/',
 		},
 	],
 
@@ -135,46 +147,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'bust',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'AirBnb',
+					link: 'https://www.airbnb.ca/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'iOverlander',
+					link: 'https://www.ioverlander.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Polarsteps',
+					link: 'https://www.polarsteps.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Booking',
+					link: 'https://www.booking.com/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
-			id: '2',
+			icon: 'terminal',
+			id: '1',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Asana',
+					link: 'https://app.asana.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'ClickUp',
+					link: 'https://app.clickup.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Figma',
+					link: 'https://www.figma.com/file/auZpPPqTmNBmZnaDXCOE6l/Site-Designs?node-id=0%3A1',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Campoodle',
+					link: 'https://xd.adobe.com/view/ca73c9e8-31ad-4d5c-8fae-22ad358bad75-9f20/screen/1f4ded4b-887e-426e-a013-6c0263cd39db/specs/',
 				},
 			],
 		},
@@ -183,24 +195,24 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'terminal',
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Asana',
+					link: 'https://app.asana.com/',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'ClickUp',
+					link: 'https://app.clickup.com/',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'Figma',
+					link: 'https://www.figma.com/file/auZpPPqTmNBmZnaDXCOE6l/Site-Designs?node-id=0%3A1',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Campoodle',
+					link: 'https://xd.adobe.com/view/ca73c9e8-31ad-4d5c-8fae-22ad358bad75-9f20/screen/1f4ded4b-887e-426e-a013-6c0263cd39db/specs/',
 				},
 			],
 		},
